@@ -4,7 +4,7 @@
 # conn = psycopg2.connect(dbname='uyga_vazifa_4_10',
 # host='localhost', port='5432', user='postgres', password='20021002')
 # curr = conn.cursor()
-
+#hello
 from prettytable import PrettyTable
 table = PrettyTable()
 

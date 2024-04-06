@@ -1,0 +1,7 @@
++------------+--------------+---------+-----+
+|    Name    |   Surname    | Subject | Age |
++------------+--------------+---------+-----+
+| Sirojidin  | Abdusattorov |  Fizika |  34 |
+| Addusattor |   Jamilov    |  Tarix  |  35 |
+|   Adror    |   Ziyoyev    |  Kimyo  |  40 |
++------------+--------------+---------+-----+
